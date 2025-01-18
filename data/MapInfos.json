@@ -14,5 +14,7 @@ null,
 {"id":12,"expanded":false,"name":"кабинет чего-то","order":9,"parentId":2,"scrollX":704.5,"scrollY":400.5,"quick":false},
 {"id":13,"expanded":false,"name":"синий зал","order":10,"parentId":2,"scrollX":704.5,"scrollY":400.5,"quick":false},
 {"id":14,"expanded":false,"name":"спорт зал","order":11,"parentId":2,"scrollX":712.5,"scrollY":472.5,"quick":false},
-{"id":15,"expanded":false,"name":"Boss Room","order":12,"parentId":2,"scrollX":704.5,"scrollY":472.5,"quick":false}
+{"id":15,"expanded":false,"name":"Boss Room","order":12,"parentId":2,"scrollX":704.5,"scrollY":472.5,"quick":false},
+{"id":16,"expanded":false,"name":"Coridor","order":13,"parentId":2,"scrollX":976.5,"scrollY":882.75,"quick":false},
+{"id":17,"expanded":false,"name":"WC","order":14,"parentId":2,"scrollX":976.5,"scrollY":557.25,"quick":false}
 ]
