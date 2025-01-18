@@ -1,14 +1,18 @@
 [
 null,
 {"id":1,"expanded":false,"name":"TEST ROOM","order":1,"parentId":0,"scrollX":845.4,"scrollY":471},
-{"id":2,"expanded":true,"name":"Dungeon 1","order":3,"parentId":0,"scrollX":1409.5,"scrollY":785.5,"quick":false},
-{"id":3,"expanded":false,"name":"Dungeon 2","order":9,"parentId":0,"scrollX":626.2222222222222,"scrollY":348.8888888888889,"quick":false},
-{"id":4,"expanded":false,"name":"Dungeon 3","order":10,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":5,"expanded":false,"name":"Dungeon 4","order":11,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":2,"expanded":true,"name":"Dungeon 1","order":3,"parentId":0,"scrollX":712.5,"scrollY":1271.5,"quick":false},
+{"id":3,"expanded":false,"name":"Dungeon 2","order":13,"parentId":0,"scrollX":704.5,"scrollY":400.5,"quick":false},
+{"id":4,"expanded":false,"name":"Dungeon 3","order":14,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":5,"expanded":false,"name":"Dungeon 4","order":15,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":6,"expanded":false,"name":"Real World 1","order":2,"parentId":0,"scrollX":845.4,"scrollY":471,"quick":false},
-{"id":7,"expanded":true,"name":"Start Room","order":5,"parentId":2,"scrollX":451,"scrollY":292,"quick":false},
+{"id":7,"expanded":true,"name":"Start Room","order":5,"parentId":2,"scrollX":704.5,"scrollY":392.5,"quick":false},
 {"id":8,"expanded":false,"name":"Cafeteria","order":4,"parentId":2,"scrollX":1207.7142857142856,"scrollY":672.8571428571428,"quick":false},
-{"id":9,"expanded":false,"name":"Big Room","order":6,"parentId":2,"scrollX":975.5,"scrollY":686.5,"quick":false},
-{"id":10,"expanded":false,"name":"Safe Room","order":7,"parentId":2,"scrollX":563.6,"scrollY":320.4,"quick":false},
-{"id":11,"expanded":false,"name":"Boss Room","order":8,"parentId":2,"scrollX":1207.7142857142856,"scrollY":686.5714285714286,"quick":false}
+{"id":9,"expanded":false,"name":"Big Room","order":6,"parentId":2,"scrollX":967.5,"scrollY":686.5,"quick":false},
+{"id":10,"expanded":false,"name":"Safe Room","order":7,"parentId":2,"scrollX":704.5,"scrollY":400.5,"quick":false},
+{"id":11,"expanded":true,"name":"Boss Room","order":8,"parentId":2,"scrollX":712.5,"scrollY":472.5,"quick":false},
+{"id":12,"expanded":false,"name":"кабинет чего-то","order":9,"parentId":2,"scrollX":704.5,"scrollY":400.5,"quick":false},
+{"id":13,"expanded":false,"name":"синий зал","order":10,"parentId":2,"scrollX":704.5,"scrollY":400.5,"quick":false},
+{"id":14,"expanded":false,"name":"спорт зал","order":11,"parentId":2,"scrollX":712.5,"scrollY":472.5,"quick":false},
+{"id":15,"expanded":false,"name":"Boss Room","order":12,"parentId":2,"scrollX":704.5,"scrollY":472.5,"quick":false}
 ]
