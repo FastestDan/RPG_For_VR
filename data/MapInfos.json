@@ -1,11 +1,13 @@
 [
 null,
-{"id":1,"expanded":false,"name":"TEST ROOM","order":1,"parentId":0,"scrollX":938,"scrollY":518.6666666666666},
-{"id":2,"expanded":true,"name":"Dungeon 1","order":3,"parentId":0,"scrollX":844.1999999999999,"scrollY":1213.2,"quick":false},
-{"id":3,"expanded":false,"name":"Dungeon 2","order":6,"parentId":0,"scrollX":703.5,"scrollY":389,"quick":false},
-{"id":4,"expanded":false,"name":"Dungeon 3","order":7,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":5,"expanded":false,"name":"Dungeon 4","order":8,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":6,"expanded":false,"name":"Real World 1","order":2,"parentId":0,"scrollX":625.3333333333334,"scrollY":367.1111111111111,"quick":false},
-{"id":7,"expanded":false,"name":"Start Room","order":4,"parentId":2,"scrollX":625.3333333333334,"scrollY":345.77777777777777,"quick":false},
-{"id":8,"expanded":false,"name":"Cafeteria","order":5,"parentId":2,"scrollX":625.3333333333334,"scrollY":352.8888888888889,"quick":false}
+{"id":1,"expanded":false,"name":"TEST ROOM","order":1,"parentId":0,"scrollX":845.4,"scrollY":471},
+{"id":2,"expanded":true,"name":"Dungeon 1","order":3,"parentId":0,"scrollX":1938,"scrollY":1040,"quick":false},
+{"id":3,"expanded":false,"name":"Dungeon 2","order":8,"parentId":0,"scrollX":703.5,"scrollY":389,"quick":false},
+{"id":4,"expanded":false,"name":"Dungeon 3","order":9,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":5,"expanded":false,"name":"Dungeon 4","order":10,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":6,"expanded":false,"name":"Real World 1","order":2,"parentId":0,"scrollX":845.4,"scrollY":471,"quick":false},
+{"id":7,"expanded":true,"name":"Start Room","order":5,"parentId":2,"scrollX":451,"scrollY":292,"quick":false},
+{"id":8,"expanded":false,"name":"Cafeteria","order":4,"parentId":2,"scrollX":845.4,"scrollY":471,"quick":false},
+{"id":9,"expanded":false,"name":"Big Room","order":6,"parentId":2,"scrollX":846,"scrollY":640,"quick":false},
+{"id":10,"expanded":false,"name":"Safe Room","order":7,"parentId":2,"scrollX":816,"scrollY":624,"quick":false}
 ]
